@@ -1,1 +1,1 @@
-grep -i -o -w -s  "gcettb" * ./dip/{* .*} | wc -w
+grep -rl  "gcettb"  ./dip/*
